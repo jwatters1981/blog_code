@@ -41,7 +41,7 @@ public class SampleEndpoint {
 	 * @return
 	 */
 	@PayloadRoot(localPart = GET_PERSONS_REQUEST, namespace = NAMESPACE)
-	public @ResponsePayload ProductResponse getPersons(@RequestPayload GetProductRequest  code) {
+	public @ResponsePayload ProductResponse getProducts(@RequestPayload GetProductRequest  code) {
 		ProductResponse productResponse = new ProductResponse();
 		Product product = new Product();
 		product.setCode("Code1");
