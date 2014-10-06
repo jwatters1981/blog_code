@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/resources" excluding="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/javax/xml/bind/jaxb-api/2.1/jaxb-api-2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-web/3.2.3.RELEASE/spring-web-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-aop/3.2.3.RELEASE/spring-aop-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-beans/3.2.3.RELEASE/spring-beans-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/3.2.3.RELEASE/spring-core-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-context/3.2.3.RELEASE/spring-context-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-expression/3.2.3.RELEASE/spring-expression-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-webmvc/3.2.3.RELEASE/spring-webmvc-3.2.3.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/ws/spring-ws-core/2.2.0.RELEASE/spring-ws-core-2.2.0.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/ws/spring-xml/2.2.0.RELEASE/spring-xml-2.2.0.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-oxm/4.0.5.RELEASE/spring-oxm-4.0.5.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-test/3.1.1.RELEASE/spring-test-3.1.1.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.16/log4j-1.2.16.jar"/>
+  <classpathentry kind="var" path="M2_REPO/wsdl4j/wsdl4j/1.6.2/wsdl4j-1.6.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-spring-ws/2.13.2/camel-spring-ws-2.13.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-core/2.13.2/camel-core-2.13.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.6.6/slf4j-api-1.6.6.jar"/>
+  <classpathentry kind="var" path="M2_REPO/com/sun/xml/bind/jaxb-impl/2.1.13/jaxb-impl-2.1.13.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-spring/2.13.2/camel-spring-2.13.2.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-tx/3.2.8.RELEASE/spring-tx-3.2.8.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/ws/spring-ws-support/2.1.4.RELEASE/spring-ws-support-2.1.4.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/springframework/spring-jms/3.2.4.RELEASE/spring-jms-3.2.4.RELEASE.jar"/>
+  <classpathentry kind="var" path="M2_REPO/org/apache/camel/camel-jaxb/2.13.2/camel-jaxb-2.13.2.jar"/>
+</classpath>
