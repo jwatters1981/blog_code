@@ -29,7 +29,7 @@ import org.springwebservices.product.schema.beans.ProductResponse;
  * @author john.watters
  *
  */
-@Endpoint
+//@Endpoint
 public class SampleEndpoint {
 
 	public final static String NAMESPACE = "http://www.springwebservices.org/product/schema/beans";

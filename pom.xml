@@ -8,8 +8,8 @@
 	<version>1.1.4</version>
 	<name>Spring Web Services</name>
 	<description>Spring web services using JaxB.</description>
-	
-	
+
+
 	<properties>
 
 		<org.springframework.version>3.2.3.RELEASE</org.springframework.version>
@@ -49,10 +49,30 @@
 			<version>1.6.2</version>
 		</dependency>
 
+		<dependency>
+			<groupId>org.apache.camel</groupId>
+			<artifactId>camel-spring-ws</artifactId>
+			<version>2.13.2</version>
+
+		</dependency>
+		<dependency>
+			<groupId>org.apache.camel</groupId>
+			<artifactId>camel-jaxb</artifactId>
+			<version>2.13.2</version>
+
+		</dependency>
+		<dependency>
+			<groupId>org.apache.camel</groupId>
+			<artifactId>camel-spring</artifactId>
+			<version>2.13.2</version>
+
+		</dependency>
+
+
 	</dependencies>
 
 	<build>
-	
+
 		<plugins>
 			<plugin>
 				<groupId>org.jvnet.jaxb2.maven2</groupId>
@@ -61,9 +81,9 @@
 
 		</plugins>
 		<pluginManagement>
-		
+
 			<plugins>
-			
+
 				<!--This plugin's configuration is used to store Eclipse m2e settings 
 					only. It has no influence on the Maven build itself. -->
 				<plugin>
